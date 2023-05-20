@@ -28,4 +28,10 @@ Collection of online stores for electronics in Egypt.<br>
 [CNC/3D Printers EGYPT- Zakazik](https://cncegy.com/)<br>
 [Circuits - Zakazik](https://circuit-electronics.com/)<br><br>
 
-[Akson – Kafr Elshaikh](https://aksonelectronics.com/)<br>
+[Akson – Kafr Elshaikh](https://aksonelectronics.com/)<br><br>
+
+[Magnets](https://www.facebook.com/4Magnet)<br>
+
+[Raspberry Pi - Nivida Jetson Nano](https://www.facebook.com/rpegypt20)<br>
+
+
