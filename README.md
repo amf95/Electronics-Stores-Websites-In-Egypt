@@ -15,7 +15,8 @@ Collection of online stores for electronics in Egypt.<br>
 [Diy - Cairo](https://diyelectronicsegypt.com/)<br>
 [Nekhely Mall- Cairo](https://www.elnekhely.com/)<br>
 [EL Gammal - Cairo](http://www.elgammalelectronics.com/)<br>
-[Microohm - Cairo](https://microohm-eg.com/)<br><br>
+[Microohm - Cairo](https://microohm-eg.com/)<br>
+[Juthour 3D Printers/CNC - Cairo](https://www.juthour-tech.com/)<br><br>
 
 [Makers - Alexandria](https://makerselectronics.com/)<br>
 [Electra - Alexandria](https://electra.store/)<br><br>
@@ -24,5 +25,7 @@ Collection of online stores for electronics in Egypt.<br>
 [Circuits - October](https://circuits-elec.com/)<br>
 [Filotronix - October](https://www.filotronix.com/)<br><br>
 
-[Circuits - Zakazik](https://circuit-electronics.com/)<br>
+[CNC/3D Printers EGYPT- Zakazik](https://cncegy.com/)<br>
+[Circuits - Zakazik](https://circuit-electronics.com/)<br><br>
+
 [Akson – Kafr Elshaikh](https://aksonelectronics.com/)<br>
