@@ -4,6 +4,8 @@ Collection of online stores for electronics in Egypt.<br>
 [Lampa - Mansurah/Cairo](https://lampatronics.com/)<br>
 [MECHATRONX - Mansurah](https://mecha-tronx.com/)<br><br>
 
+[Baymax](http://www.baymax-estore.com/)<br><br>
+
 [Free - Cairo](https://free-electronic.com/)<br>
 [Future - Cairo](https://store.fut-electronics.com/)<br>
 [Ram- Cairo](https://ram-e-shop.com/)<br>
