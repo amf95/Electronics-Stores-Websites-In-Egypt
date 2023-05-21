@@ -11,6 +11,7 @@ Collection of online stores for electronics in Egypt.<br>
 [Ram- Cairo](https://ram-e-shop.com/)<br>
 [UGE - Cairo](https://uge-one.com/)<br>
 [Mostel - Cairo](https://mostelectronic.com/)<br>
+[Lancer 3D/CNC - Cairo](https://lancer3d.com/)
 [Most - Cairo](https://alamirstore.com/)<br>
 [Ampere - Cairo/10th Ramadan](https://www.ampere-electronics.com/)<br>
 [AB - Cairo](https://ab-eshop.store.link/)<br>
