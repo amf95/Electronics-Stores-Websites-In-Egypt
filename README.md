@@ -7,7 +7,7 @@ Collection of online stores for electronics in Egypt.<br>
 [Baymax - Dumyat](http://www.baymax-estore.com/)<br><br>
 
 [Free - Cairo](https://free-electronic.com/)<br>
-[Future - Cairo](https://store.fut-electronics.com/)<br>
+[Future - Cairo/Alexandria](https://store.fut-electronics.com/)<br>
 [Ram- Cairo](https://ram-e-shop.com/)<br>
 [UGE - Cairo](https://uge-one.com/)<br>
 [Mostel - Cairo](https://mostelectronic.com/)<br>
