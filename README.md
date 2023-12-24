@@ -28,7 +28,8 @@ Collection of online stores for electronics in Egypt.<br>
 
 [HD - October](https://hdelectronicseg.com/)<br>
 [Circuits - October](https://circuits-elec.com/)<br>
-[Filotronix - October](https://www.filotronix.com/)<br><br>
+[Filotronix - October](https://www.filotronix.com/)<br>
+MechaTronics (Land Line: 020238838055 - Phone: 0201066616891) - October<br><br>
 
 [CNC/3D Printers EGYPT- Zakazik](https://cncegy.com/)<br>
 [Circuits - Zakazik](https://circuit-electronics.com/)<br><br>
