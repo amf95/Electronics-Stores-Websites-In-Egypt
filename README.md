@@ -21,7 +21,10 @@ Collection of online stores for electronics in Egypt.<br>
 [EL Gammal - Cairo](http://www.elgammalelectronics.com/)<br>
 [Microohm - Cairo](https://microohm-eg.com/)<br>
 [Juthour 3D Printers/CNC - Cairo](https://www.juthour-tech.com/)<br>
-[3duino 3D Printers/CNC - Cairo](https://www.3duino.com/)<br><br>
+[3duino 3D Printers/CNC - Cairo](https://www.3duino.com/)<br>
+[tdppae 3D Printers/CNC - Cairo](https://tdppae.com/)<br>
+[Creality Egypt 3D Printers - Cairo](https://www.crealityegypt.com/)<br>
+[3dprinter-egypt - Cairo](https://3dprinter-egypt.com/)<br><br>
 
 [Makers - Alexandria](https://makerselectronics.com/)<br>
 [Electra - Alexandria](https://electra.store/)<br><br>
