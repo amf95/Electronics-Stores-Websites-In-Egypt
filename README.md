@@ -14,6 +14,7 @@ Collection of online stores for electronics in Egypt.<br>
 [Lancer 3D/CNC - Cairo](https://lancer3d.com/)<br>
 [Most - Cairo](https://alamirstore.com/)<br>
 [Ampere - Cairo/10th Ramadan](https://www.ampere-electronics.com/)<br>
+[Fares Pcb - Cairo/10th Ramadan](https://fares-pcb.com/)<br>
 [AB - Cairo](https://ab-eshop.store.link/)<br>
 [Diy - Cairo](https://diyelectronicsegypt.com/)<br>
 [Maamoon - Cairo](https://www.maamoon.com/)<br>
