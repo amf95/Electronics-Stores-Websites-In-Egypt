@@ -34,7 +34,7 @@ Collection of online stores for electronics in Egypt.<br>
 [Circuits - October](https://circuits-elec.com/)<br>
 [Filotronix - October](https://www.filotronix.com/)<br>
 MechaTronics (Land Line: 020238838055 - Phone: 0201066616891) - October<br><br>
-
+[JanaLight - Home Electricity - 5th settlement](https://janalight.com/)<br>
 [CNC/3D Printers EGYPT- Zakazik](https://cncegy.com/)<br>
 [Circuits - Zakazik](https://circuit-electronics.com/)<br><br>
 
