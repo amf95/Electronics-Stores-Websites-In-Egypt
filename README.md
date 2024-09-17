@@ -46,3 +46,4 @@ MechaTronics (Land Line: 020238838055 - Phone: 0201066616891) - October<br>
 
 [Computer Parts](https://www.almasrya.net/)<br>
 [Compumarts-Computers](https://www.compumarts.com/)<br>
+[Elhandasiya-Computers](https://elhandasiya.com/)<br>
