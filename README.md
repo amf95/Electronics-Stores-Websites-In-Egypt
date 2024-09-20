@@ -25,6 +25,7 @@ Collection of online stores for electronics in Egypt.<br>
 [3duino 3D Printers/CNC - Cairo](https://www.3duino.com/)<br>
 [tdppae 3D Printers/CNC - Cairo](https://tdppae.com/)<br>
 [Creality Egypt 3D Printers - Cairo](https://www.crealityegypt.com/)<br>
+[3dsmart 3D Printers - Cairo](https://3dsmart-shop.com/)<br>
 [3dprinter-egypt - Cairo](https://3dprinter-egypt.com/)<br><br>
 
 [Makers - Alexandria](https://makerselectronics.com/)<br>
