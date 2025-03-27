@@ -2,14 +2,14 @@
 Collection of online stores for electronics in Egypt.<br>
 
 [Lampa - Mansurah/Cairo](https://lampatronics.com/)<br>
-[MECHATRONX - Mansurah](https://mecha-tronx.com/)<br><br>
+[MECHATRONX - Mansurah](https://mecha-tronx.com/)<br>
 
-[Baymax - Dumyat](http://www.baymax-estore.com/)<br><br>
+[Baymax - Dumyat](http://www.baymax-estore.com/)<br>
 
 [Makers - Alexandria](https://makerselectronics.com/)<br>
 [Electra - Alexandria](https://electra.store/)<br><br>
 
-[Akson – Kafr Elshaikh](https://aksonelectronics.com/)<br><br>
+[Akson – Kafr Elshaikh](https://aksonelectronics.com/)<br>
 
 [HD - October](https://hdelectronicseg.com/)<br>
 [Circuits - October](https://circuits-elec.com/)<br>
@@ -19,7 +19,7 @@ MechaTronics (Land Line: 020238838055 - Phone: 0201066616891) - October<br>
 [CNC/3D Printers EGYPT- Zakazik](https://cncegy.com/)<br>
 [Circuits - Zakazik](https://circuit-electronics.com/)<br><br>
 
-[JanaLight - Home Electricity - 5th settlement](https://janalight.com/)<br><br>
+[JanaLight - Home Electricity - 5th settlement](https://janalight.com/)<br>
 [Free - Cairo](https://free-electronic.com/)<br>
 [Future - Cairo/Alexandria](https://store.fut-electronics.com/)<br>
 [Ram- Cairo](https://www.ram-e-shop.com/)<br>
