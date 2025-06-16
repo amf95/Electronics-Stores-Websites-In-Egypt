@@ -46,11 +46,15 @@ MechaTronics (Land Line: 020238838055 - Phone: 0201066616891) - October<br>
 
 [Raspberry Pi - Nivida Jetson Nano](https://www.facebook.com/rpegypt20)<br>
 
-computers:<br>
+Computers:<br>
 [AL-Frensia](https://alfrensia.com/en/)<br>
 [Kimo Store](https://kimostore.net/)<br>
 [Tech Shop](https://techshopeg.com/)<br>
 [Computer Parts](https://www.almasrya.net/)<br>
 [Compumarts-Computers](https://www.compumarts.com/)<br>
 [Elhandasiya-Computers](https://elhandasiya.com/)<br>
-[AlQods-Computers](https://offercomputer.com/)<br>
+[AlQods-Computers](https://offercomputer.com/)<br><br>
+
+Television parts:
+[apqrino](https://apqrino.com/)<br>
+[ic-hat](https://ic-hat.com/ar/)<br>
