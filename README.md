@@ -20,6 +20,7 @@ MechaTronics (Land Line: 020238838055 - Phone: 0201066616891) - October<br>
 [Circuits - Zakazik](https://circuit-electronics.com/)<br><br>
 
 **Location: شارع شريف - التحرير - باب اللوق**
+<br>
 [Lampa - Cairo](https://lampatronics.com/)<br>
 [Ram- Cairo](https://www.ram-e-shop.com/)<br>
 [Free - Cairo](https://free-electronic.com/)<br>
