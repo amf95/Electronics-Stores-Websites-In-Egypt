@@ -1,7 +1,7 @@
 # Electronics-Stores-Websites-In-Egypt
 Collection of online stores for electronics in Egypt.<br>
 
-[Lampa - Mansurah/Cairo](https://lampatronics.com/)<br>
+[Lampa - Mansurah](https://lampatronics.com/)<br>
 [MECHATRONX - Mansurah](https://mecha-tronx.com/)<br>
 
 [Baymax - Dumyat](http://www.baymax-estore.com/)<br>
@@ -19,10 +19,17 @@ MechaTronics (Land Line: 020238838055 - Phone: 0201066616891) - October<br>
 [CNC/3D Printers EGYPT- Zakazik](https://cncegy.com/)<br>
 [Circuits - Zakazik](https://circuit-electronics.com/)<br><br>
 
-[JanaLight - Home Electricity - 5th settlement](https://janalight.com/)<br>
-[Free - Cairo](https://free-electronic.com/)<br>
-[Future - Cairo/Alexandria](https://store.fut-electronics.com/)<br>
+**Location: شارع شريف - التحرير - باب اللوق**
+[Lampa - Cairo](https://lampatronics.com/)<br>
 [Ram- Cairo](https://www.ram-e-shop.com/)<br>
+[Free - Cairo](https://free-electronic.com/)<br>
+[MTM - Cairo](https://mtm-electronic.com/)<br>
+[Flux - Cairo](https://fluxelectronix.com/)<br>
+[EL Gammal - Cairo](http://www.elgammalelectronics.com/)<br>
+
+
+[JanaLight - Home Electricity - 5th settlement](https://janalight.com/)<br>
+[Future - Cairo/Alexandria](https://store.fut-electronics.com/)<br>
 [UGE - Cairo](https://uge-one.com/)<br>
 [Mostel - Cairo](https://mostelectronic.com/)<br>
 [Lancer 3D/CNC - Cairo](https://lancer3d.com/)<br>
@@ -34,7 +41,6 @@ MechaTronics (Land Line: 020238838055 - Phone: 0201066616891) - October<br>
 [Diy - Cairo](https://diyelectronicsegypt.com/)<br>
 [Maamoon - Cairo](https://www.maamoon.com/)<br>
 [Nekhely Mall- Cairo](https://www.elnekhely.com/)<br>
-[EL Gammal - Cairo](http://www.elgammalelectronics.com/)<br>
 [Microohm - Cairo](https://microohm-eg.com/)<br>
 [Juthour 3D Printers/CNC - Cairo](https://www.juthour-tech.com/)<br>
 [3duino 3D Printers/CNC - Cairo](https://www.3duino.com/)<br>
