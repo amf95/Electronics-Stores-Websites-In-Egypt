@@ -1,24 +1,38 @@
 # Electronics-Stores-Websites-In-Egypt
 Collection of online stores for electronics in Egypt.<br>
+
 ---
+
 [Lampa - Mansurah](https://lampatronics.com/)<br>
 [MECHATRONX - Mansurah](https://mecha-tronx.com/)<br>
+
 ---
+
 [Baymax - Dumyat](http://www.baymax-estore.com/)<br>
+
 ---
+
 [Makers - Alexandria](https://makerselectronics.com/)<br>
 [Electra - Alexandria](https://electra.store/)<br><br>
+
 ---
+
 [Akson – Kafr Elshaikh](https://aksonelectronics.com/)<br>
+
 ---
+
 [HD - October](https://hdelectronicseg.com/)<br>
 [Circuits - October](https://circuits-elec.com/)<br>
 [Filotronix - October](https://www.filotronix.com/)<br>
 MechaTronics (Land Line: 020238838055 - Phone: 0201066616891) - October<br>
+
 ---
+
 [CNC/3D Printers EGYPT- Zakazik](https://cncegy.com/)<br>
 [Circuits - Zakazik](https://circuit-electronics.com/)<br><br>
+
 ---
+
 **Location: شارع شريف - التحرير - باب اللوق**
 <br>
 [Lampa - Cairo](https://lampatronics.com/)<br>
@@ -27,7 +41,9 @@ MechaTronics (Land Line: 020238838055 - Phone: 0201066616891) - October<br>
 [MTM - Cairo](https://mtm-electronic.com/)<br>
 [Flux - Cairo](https://fluxelectronix.com/)<br>
 [EL Gammal - Cairo](http://www.elgammalelectronics.com/)<br>
+
 ---
+
 [JanaLight - Home Electricity - 5th settlement](https://janalight.com/)<br>
 [Future - Cairo/Alexandria](https://store.fut-electronics.com/)<br>
 [UGE - Cairo](https://uge-one.com/)<br>
@@ -47,11 +63,17 @@ MechaTronics (Land Line: 020238838055 - Phone: 0201066616891) - October<br>
 [tdppae 3D Printers/CNC - Cairo](https://tdppae.com/)<br>
 [Creality Egypt 3D Printers - Cairo](https://www.crealityegypt.com/)<br>
 [3dprinter-egypt - Cairo](https://3dprinter-egypt.com/)<br><br>
+
 ---
+
 [Magnets](https://www.facebook.com/4Magnet)<br>
+
 ---
+
 [Raspberry Pi - Nivida Jetson Nano](https://www.facebook.com/rpegypt20)<br>
+
 ---
+
 Computers:<br>
 [AL-Frensia](https://alfrensia.com/en/)<br>
 [Kimo Store](https://kimostore.net/)<br>
@@ -60,8 +82,11 @@ Computers:<br>
 [Compumarts-Computers](https://www.compumarts.com/)<br>
 [Elhandasiya-Computers](https://elhandasiya.com/)<br>
 [AlQods-Computers](https://offercomputer.com/)<br><br>
+
 ---
+
 Television parts:<br>
 [apqrino](https://apqrino.com/)<br>
 [ic-hat](https://ic-hat.com/ar/)<br>
+
 ---
