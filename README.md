@@ -1,5 +1,5 @@
 # Electronics-Stores-Websites-In-Egypt
-Collection of online stores for electronics in Egypt.<br>
+**Collection of online stores for electronics in Egypt.**<br>
 
 ---
 
@@ -74,7 +74,7 @@ MechaTronics (Land Line: 020238838055 - Phone: 0201066616891) - October<br>
 
 ---
 
-Computers:<br>
+**Computers:**<br>
 [AL-Frensia](https://alfrensia.com/en/)<br>
 [Kimo Store](https://kimostore.net/)<br>
 [Tech Shop](https://techshopeg.com/)<br>
@@ -85,7 +85,7 @@ Computers:<br>
 
 ---
 
-Television parts:<br>
+**Television parts:**<br>
 [apqrino](https://apqrino.com/)<br>
 [ic-hat](https://ic-hat.com/ar/)<br>
 
